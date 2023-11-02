@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.btn{
+    display: none;
+}
+.btn.show{
+    display: block;
+}
+#filters div{
+    padding: 5px;
+}
+.btn.show{
+    margin: auto;
+    margin-top: 1rem;
+}
